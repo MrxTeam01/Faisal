@@ -1,1 +1,1 @@
-import king1
+import king
