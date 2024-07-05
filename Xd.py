@@ -63,6 +63,7 @@ def runtxt(z):
         time.sleep(0.02)
 
 runtxt(f'{G}wellcome to Mrx Tools');time.sleep(5)
+os.system('clear')
 
 def permison():
     try:
