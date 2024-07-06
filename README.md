@@ -4,4 +4,6 @@ git clone https://github.com/MrxTeam01/Faisal.git
 
 cd Faisal
 
-python Xd.py
+chmod +x *
+
+python Maysam.py
